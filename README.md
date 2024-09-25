@@ -9,3 +9,4 @@ IT Marathon
 <img width="656" alt="Знімок екрана 2024-09-24 о 17 59 36" src="https://github.com/user-attachments/assets/bc9ce062-caae-48b9-bc23-fff16f97501b">
 
 ## UI-UX Design
+<img width="806" alt="Знімок екрана 2024-09-25 о 16 34 56" src="https://github.com/user-attachments/assets/56288b1c-28ce-45c8-9117-5510bb696c23">
